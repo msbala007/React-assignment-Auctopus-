@@ -31,12 +31,7 @@ Install Packages:
        Thank you
 
 
-    Document the available scripts for running, testing, and building the React application, such as npm start, npm test, and npm run build.
-      
-
-Run the application
-
-yarn dev 
+    
 
 
 
